@@ -1,3 +1,3 @@
-# recipes
+# Recipes
 
 A List of Recipes 

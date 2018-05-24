@@ -1,3 +1,3 @@
-#recipes
+# recipes
 
-A List of Recipes :/
+A List of Recipes 
